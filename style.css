@@ -43,11 +43,6 @@ body {
   margin-left: 65px;
 }
 
-.form-3 {
-  margin-right: 65px;
-  text-align: center;
-}
-
 .form-1-title,
 .form-2-title {
   margin-bottom: 15px;
@@ -78,6 +73,9 @@ body {
   border: 2px solid rgba(255, 255, 255, 0.829);
   background-color: #57c639;
   margin-top: 50px;
+  margin-right: 65px;
+  text-align: center;
+  align-items: center;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
   color: rgba(255, 255, 255, 0.829);
@@ -116,6 +114,7 @@ body {
   margin-top: 3px;
   margin-right: 65px;
   text-align: center;
+  align-items: center;
 }
 
 /* ------@media------ */
