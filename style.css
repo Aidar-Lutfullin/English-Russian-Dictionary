@@ -45,6 +45,7 @@ body {
 
 .form-3 {
   margin-right: 65px;
+  text-align: center;
 }
 
 .form-1-title,
@@ -114,6 +115,7 @@ body {
   color: rgba(255, 255, 255, 0.829);
   margin-top: 3px;
   margin-right: 65px;
+  text-align: center;
 }
 
 /* ------@media------ */
