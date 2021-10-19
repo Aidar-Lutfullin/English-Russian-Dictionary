@@ -46,6 +46,7 @@ btnAdd.addEventListener("click", () => {
     input1.value = null;
     input2.value = null;
   }
+  document.location.reload();
 });
 
 function CreateWord(english, russian) {
